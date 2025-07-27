@@ -99,14 +99,6 @@ phishing-email-analysis/
 │   └── email_body.png
 ```
 
----
-
-## 🔗 Submission
-**Submit your GitHub repo link here:**  
-[https://forms.gle/8Gm83s53KbyXs3Ne9](https://forms.gle/8Gm83s53KbyXs3Ne9)
-
----
-
 > 💡 Remember: Never trust emails that rush you into action or ask you to click on unverified links. Always inspect the source and validate domains carefully.
 
 ---
